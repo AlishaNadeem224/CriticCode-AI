@@ -30,5 +30,5 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/codecritic-ai.git
-cd codecritic-ai
+git clone https://github.com/YOUR_USERNAME/criticcode-ai.git
+cd criticcode-ai
