@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+textarea {
+  scrollbar-width: thin;
+  scrollbar-color: #6b21a8 #1f2937;
+}
+
+textarea::-webkit-scrollbar {
+  width: 6px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: #6b21a8;
+  border-radius: 20px;
+}
+
+.prose h1, .prose h2, .prose h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-weight: 600;
+}
