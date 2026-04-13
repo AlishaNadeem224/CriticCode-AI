@@ -56,7 +56,7 @@ export default function CodeCriticAI() {
               <Sparkles className="w-8 h-8" />
             </div>
             <div>
-              <h1 className="text-5xl font-bold">CodeCritic AI</h1>
+              <h1 className="text-5xl font-bold">CriticCode AI</h1>
               <p className="text-gray-400 text-lg">Your Personal Senior Code Reviewer</p>
             </div>
           </div>
