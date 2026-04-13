@@ -1,11 +1,11 @@
-# CriticCode AI - AI Powered Code Review Assistant
+# CriticCode AI
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-00A3FF?style=for-the-badge&logo=groq&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**A smart AI tool that reviews your code like a senior engineer.**
+**AI-Powered Code Review Assistant** — Your Personal Senior Engineer
 
 ## ✨ Features
 - Paste any code → Get instant AI review
