@@ -30,8 +30,8 @@ CriticCode AI takes a block of code as input and returns an expert-style review:
 ## Setup
 
 ### Prerequisites
-- Node.js [ADD version, e.g. 18+]
-- Python [ADD version, e.g. 3.11+]
+- Node.js 
+- Python
 - A Groq API key ([console.groq.com](https://console.groq.com))
 
 ### Backend
